@@ -1,0 +1,7 @@
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\obj\Debug\hesapMkinesi.csprojResolveAssemblyReference.cache
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\obj\Debug\hesapMkinesi.csproj.CoreCompileInputs.cache
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\bin\Debug\hesapMkinesi.exe.config
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\bin\Debug\hesapMkinesi.exe
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\bin\Debug\hesapMkinesi.pdb
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\obj\Debug\hesapMkinesi.exe
+C:\Users\ckl_m\source\repos\hesapMkinesi\hesapMkinesi\obj\Debug\hesapMkinesi.pdb
